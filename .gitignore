@@ -5,4 +5,7 @@
 *.tfstate
 *.tfstate.*
 
-hello-*.zip
+*.zip
+
+# ignore vscode files
+.vscode
